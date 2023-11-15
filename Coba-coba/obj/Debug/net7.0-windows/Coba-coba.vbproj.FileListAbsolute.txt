@@ -1,0 +1,17 @@
+C:\Users\Anugrah\source\repos\Coba-coba\Coba-coba\bin\Debug\net7.0-windows\Coba-coba.exe
+C:\Users\Anugrah\source\repos\Coba-coba\Coba-coba\bin\Debug\net7.0-windows\Coba-coba.deps.json
+C:\Users\Anugrah\source\repos\Coba-coba\Coba-coba\bin\Debug\net7.0-windows\Coba-coba.runtimeconfig.json
+C:\Users\Anugrah\source\repos\Coba-coba\Coba-coba\bin\Debug\net7.0-windows\Coba-coba.dll
+C:\Users\Anugrah\source\repos\Coba-coba\Coba-coba\bin\Debug\net7.0-windows\Coba-coba.pdb
+C:\Users\Anugrah\source\repos\Coba-coba\Coba-coba\obj\Debug\net7.0-windows\Coba_coba.Form1.resources
+C:\Users\Anugrah\source\repos\Coba-coba\Coba-coba\obj\Debug\net7.0-windows\Coba-coba.vbproj.GenerateResource.cache
+C:\Users\Anugrah\source\repos\Coba-coba\Coba-coba\obj\Debug\net7.0-windows\Coba-coba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anugrah\source\repos\Coba-coba\Coba-coba\obj\Debug\net7.0-windows\Coba-coba.AssemblyInfoInputs.cache
+C:\Users\Anugrah\source\repos\Coba-coba\Coba-coba\obj\Debug\net7.0-windows\Coba-coba.AssemblyInfo.vb
+C:\Users\Anugrah\source\repos\Coba-coba\Coba-coba\obj\Debug\net7.0-windows\Coba-coba.vbproj.CoreCompileInputs.cache
+C:\Users\Anugrah\source\repos\Coba-coba\Coba-coba\obj\Debug\net7.0-windows\Coba-coba.dll
+C:\Users\Anugrah\source\repos\Coba-coba\Coba-coba\obj\Debug\net7.0-windows\refint\Coba-coba.dll
+C:\Users\Anugrah\source\repos\Coba-coba\Coba-coba\obj\Debug\net7.0-windows\Coba-coba.pdb
+C:\Users\Anugrah\source\repos\Coba-coba\Coba-coba\obj\Debug\net7.0-windows\Coba-coba.genruntimeconfig.cache
+C:\Users\Anugrah\source\repos\Coba-coba\Coba-coba\obj\Debug\net7.0-windows\ref\Coba-coba.dll
+C:\Users\Anugrah\source\repos\Coba-coba\Coba-coba\obj\Debug\net7.0-windows\Coba_coba.Form2.resources
